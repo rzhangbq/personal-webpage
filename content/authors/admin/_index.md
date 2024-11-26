@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate Student
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -36,14 +36,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: PhD in Machine Learning
+      institution: The Georgia Institute of Technology (Georgia Tech)
     - course: BEng in Aerospace Engineering and BSc in Computer Science
       institution: The Hong Kong University of Science and Technology (HKUST)
-      year: 2020 Fall - Present
-      CGA: 3.979/4.300
     - course: Exchange Student
       institution: The Georgia Institute of Technology (Georgia Tech)
-      year: 2022 Fall
-      CGA: 4.000/4.000
 
 
 # # Skills
