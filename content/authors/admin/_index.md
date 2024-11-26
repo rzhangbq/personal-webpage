@@ -21,11 +21,11 @@ role: Undergraduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Hong Kong University of Science and Technology
-    url: https://hkust.edu.hk/
+  - name: The Georgia Institute of Technology
+    url: https://gatech.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests focuses on applying machine learning methods for fluid simulation
+bio: I am a first year PhD student in the Georgia Institute of Technology (Georgia Tech). My research interests includes high-performance computing, scientific computing and artificial intelligence for scientific computing. During my undergraduate student, I was lucky to work with Prof. ![Hao Chen](https://cse.hkust.edu.hk/~jhc/) on 
 
 # Interests to show in About widget
 interests:
