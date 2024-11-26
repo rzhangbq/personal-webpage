@@ -25,12 +25,13 @@ organizations:
     url: https://gatech.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a first year PhD student in the Georgia Institute of Technology (Georgia Tech). My research interests includes high-performance computing, scientific computing and artificial intelligence for scientific computing. During my undergraduate student, I was lucky to work with Prof. ![Hao Chen](https://cse.hkust.edu.hk/~jhc/) on 
+bio: I am a first year PhD student in the Georgia Institute of Technology (Georgia Tech). My research interests includes high-performance computing, scientific modeling and simulation, and artificial intelligence for scientific computing. During my undergraduate student, I was lucky to work with Prof. ![Hao Chen](https://cse.hkust.edu.hk/~jhc/) on 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Fluid Dynamics
+  - High-performance Computing
+  - Scientific Modeling and Simulation
+  - Artificial Intelligence for Scientific Computing
 
 # Education to show in About widget
 education:
@@ -112,6 +113,3 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-This page is still under construction. Please visit https://rzhangbq.student.ust.hk for more information.
-{style="text-align: justify;"}
