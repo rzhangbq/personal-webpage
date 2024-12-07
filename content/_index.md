@@ -280,4 +280,3 @@ sections:
   #   design:
   #     columns: '2'
 ---
-<meta http-equiv="Refresh" content="3; url='https://rzhangbq.github.io'" />
