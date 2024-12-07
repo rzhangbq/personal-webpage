@@ -47,22 +47,6 @@
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-<meta http-equiv="Refresh" content="0; url='https://rzhangbq.github.io'" />
+<meta http-equiv="Refresh" content="3; url='https://rzhangbq.github.io'" />
 
-**This webpage is out of use. Redirecting to the new homepage: rzhangbq.github.io**\
-**This webpage is out of use. Redirecting to the new homepage: rzhangbq.github.io**\
-**This webpage is out of use. Redirecting to the new homepage: rzhangbq.github.io**\
-**This webpage is out of use. Redirecting to the new homepage: rzhangbq.github.io**\
-**This webpage is out of use. Redirecting to the new homepage: rzhangbq.github.io**\
-**This webpage is out of use. Redirecting to the new homepage: rzhangbq.github.io**\
-**This webpage is out of use. Redirecting to the new homepage: rzhangbq.github.io**\
-**This webpage is out of use. Redirecting to the new homepage: rzhangbq.github.io**\
-**This webpage is out of use. Redirecting to the new homepage: rzhangbq.github.io**\
-**This webpage is out of use. Redirecting to the new homepage: rzhangbq.github.io**\
-**This webpage is out of use. Redirecting to the new homepage: rzhangbq.github.io**\
-**This webpage is out of use. Redirecting to the new homepage: rzhangbq.github.io**\
-**This webpage is out of use. Redirecting to the new homepage: rzhangbq.github.io**\
-**This webpage is out of use. Redirecting to the new homepage: rzhangbq.github.io**\
-**This webpage is out of use. Redirecting to the new homepage: rzhangbq.github.io**\
-**This webpage is out of use. Redirecting to the new homepage: rzhangbq.github.io**\
-**This webpage is out of use. Redirecting to the new homepage: rzhangbq.github.io**\
+# This webpage is no longer maintained. Redirecting to the new homepage: [rzhangbq.github.io](rzhangbq.github.io)...
