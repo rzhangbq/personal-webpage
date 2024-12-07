@@ -47,3 +47,4 @@
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+<meta http-equiv="Refresh" content="3; url='https://rzhangbq.github.io'" />
