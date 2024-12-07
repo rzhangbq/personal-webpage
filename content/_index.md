@@ -3,7 +3,6 @@
 title: ''
 date: 2022-10-24
 type: landing
-<meta http-equiv="Refresh" content="0; url='https://www.w3docs.com'" />
 sections:
   - block: hero
     demo: true # Only display this section in the Hugo Blox Builder demo site
