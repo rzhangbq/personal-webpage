@@ -38,7 +38,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: This webpage is no longer maintained. Redirecting to the new homepage ([rzhangbq.github.io](rzhangbq.github.io)) in 3 seconds...
+      title: This webpage is no longer maintained. Redirecting to the new homepage ([rzhangbq.github.io](https://rzhangbq.github.io)) in 3 seconds...
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   # - block: skills
